@@ -1,0 +1,15 @@
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\veritipleri\bin\Debug\net9.0\veritipleri.exe
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\veritipleri\bin\Debug\net9.0\veritipleri.deps.json
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\veritipleri\bin\Debug\net9.0\veritipleri.runtimeconfig.json
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\veritipleri\bin\Debug\net9.0\veritipleri.dll
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\veritipleri\bin\Debug\net9.0\veritipleri.pdb
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\veritipleri\obj\Debug\net9.0\veritipleri.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\veritipleri\obj\Debug\net9.0\veritipleri.AssemblyInfoInputs.cache
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\veritipleri\obj\Debug\net9.0\veritipleri.AssemblyInfo.cs
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\veritipleri\obj\Debug\net9.0\veritipleri.csproj.CoreCompileInputs.cache
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\veritipleri\obj\Debug\net9.0\veritipleri.sourcelink.json
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\veritipleri\obj\Debug\net9.0\veritipleri.dll
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\veritipleri\obj\Debug\net9.0\refint\veritipleri.dll
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\veritipleri\obj\Debug\net9.0\veritipleri.pdb
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\veritipleri\obj\Debug\net9.0\veritipleri.genruntimeconfig.cache
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\veritipleri\obj\Debug\net9.0\ref\veritipleri.dll
