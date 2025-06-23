@@ -12,3 +12,4 @@ c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\obj\Debug\net9
 c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\obj\Debug\net9.0\consoleapp.pdb
 C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\obj\Debug\net9.0\consoleapp.genruntimeconfig.cache
 C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\obj\Debug\net9.0\ref\consoleapp.dll
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\obj\Debug\net9.0\consoleapp.sourcelink.json
