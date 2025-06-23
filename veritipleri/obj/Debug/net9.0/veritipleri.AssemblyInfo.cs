@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("veritipleri")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf4e43d7bc9bf161d797e0580d263a9e157db142")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+631de0105e3c6af5eda4614fe7bc9e14c2b0e6ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("veritipleri")]
 [assembly: System.Reflection.AssemblyTitleAttribute("veritipleri")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

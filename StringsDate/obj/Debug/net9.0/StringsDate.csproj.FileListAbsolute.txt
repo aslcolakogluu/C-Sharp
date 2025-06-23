@@ -1,0 +1,15 @@
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\veritipleri\StringsDate\bin\Debug\net9.0\StringsDate.exe
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\veritipleri\StringsDate\bin\Debug\net9.0\StringsDate.deps.json
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\veritipleri\StringsDate\bin\Debug\net9.0\StringsDate.runtimeconfig.json
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\veritipleri\StringsDate\bin\Debug\net9.0\StringsDate.dll
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\veritipleri\StringsDate\bin\Debug\net9.0\StringsDate.pdb
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\veritipleri\StringsDate\obj\Debug\net9.0\StringsDate.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\veritipleri\StringsDate\obj\Debug\net9.0\StringsDate.AssemblyInfoInputs.cache
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\veritipleri\StringsDate\obj\Debug\net9.0\StringsDate.AssemblyInfo.cs
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\veritipleri\StringsDate\obj\Debug\net9.0\StringsDate.csproj.CoreCompileInputs.cache
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\veritipleri\StringsDate\obj\Debug\net9.0\StringsDate.sourcelink.json
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\veritipleri\StringsDate\obj\Debug\net9.0\StringsDate.dll
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\veritipleri\StringsDate\obj\Debug\net9.0\refint\StringsDate.dll
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\veritipleri\StringsDate\obj\Debug\net9.0\StringsDate.pdb
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\veritipleri\StringsDate\obj\Debug\net9.0\StringsDate.genruntimeconfig.cache
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\veritipleri\StringsDate\obj\Debug\net9.0\ref\StringsDate.dll
