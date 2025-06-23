@@ -1,0 +1,14 @@
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\bin\Debug\net9.0\consoleapp.exe
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\bin\Debug\net9.0\consoleapp.deps.json
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\bin\Debug\net9.0\consoleapp.runtimeconfig.json
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\bin\Debug\net9.0\consoleapp.dll
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\bin\Debug\net9.0\consoleapp.pdb
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\obj\Debug\net9.0\consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\obj\Debug\net9.0\consoleapp.AssemblyInfoInputs.cache
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\obj\Debug\net9.0\consoleapp.AssemblyInfo.cs
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\obj\Debug\net9.0\consoleapp.csproj.CoreCompileInputs.cache
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\obj\Debug\net9.0\consoleapp.dll
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\obj\Debug\net9.0\refint\consoleapp.dll
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\obj\Debug\net9.0\consoleapp.pdb
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\obj\Debug\net9.0\consoleapp.genruntimeconfig.cache
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\consoleapp\obj\Debug\net9.0\ref\consoleapp.dll
