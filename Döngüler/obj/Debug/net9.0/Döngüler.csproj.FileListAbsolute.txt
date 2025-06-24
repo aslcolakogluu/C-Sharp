@@ -1,0 +1,15 @@
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\Döngüler\obj\Debug\net9.0\Döngüler.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\Döngüler\obj\Debug\net9.0\Döngüler.AssemblyInfoInputs.cache
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\Döngüler\obj\Debug\net9.0\Döngüler.AssemblyInfo.cs
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\Döngüler\obj\Debug\net9.0\Döngüler.csproj.CoreCompileInputs.cache
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\Döngüler\obj\Debug\net9.0\Döngüler.sourcelink.json
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\Döngüler\bin\Debug\net9.0\Döngüler.exe
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\Döngüler\bin\Debug\net9.0\Döngüler.deps.json
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\Döngüler\bin\Debug\net9.0\Döngüler.runtimeconfig.json
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\Döngüler\bin\Debug\net9.0\Döngüler.dll
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\Döngüler\bin\Debug\net9.0\Döngüler.pdb
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\Döngüler\obj\Debug\net9.0\Döngüler.dll
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\Döngüler\obj\Debug\net9.0\refint\Döngüler.dll
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\Döngüler\obj\Debug\net9.0\Döngüler.pdb
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\Döngüler\obj\Debug\net9.0\Döngüler.genruntimeconfig.cache
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\Döngüler\obj\Debug\net9.0\ref\Döngüler.dll
