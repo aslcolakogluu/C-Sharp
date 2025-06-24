@@ -1,0 +1,15 @@
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\DosyaYönetimi\bin\Debug\net9.0\DosyaYönetimi.exe
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\DosyaYönetimi\bin\Debug\net9.0\DosyaYönetimi.deps.json
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\DosyaYönetimi\bin\Debug\net9.0\DosyaYönetimi.runtimeconfig.json
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\DosyaYönetimi\bin\Debug\net9.0\DosyaYönetimi.dll
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\DosyaYönetimi\bin\Debug\net9.0\DosyaYönetimi.pdb
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\DosyaYönetimi\obj\Debug\net9.0\DosyaYönetimi.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\DosyaYönetimi\obj\Debug\net9.0\DosyaYönetimi.AssemblyInfoInputs.cache
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\DosyaYönetimi\obj\Debug\net9.0\DosyaYönetimi.AssemblyInfo.cs
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\DosyaYönetimi\obj\Debug\net9.0\DosyaYönetimi.csproj.CoreCompileInputs.cache
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\DosyaYönetimi\obj\Debug\net9.0\DosyaYönetimi.sourcelink.json
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\DosyaYönetimi\obj\Debug\net9.0\DosyaYönetimi.dll
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\DosyaYönetimi\obj\Debug\net9.0\refint\DosyaYönetimi.dll
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\DosyaYönetimi\obj\Debug\net9.0\DosyaYönetimi.pdb
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\DosyaYönetimi\obj\Debug\net9.0\DosyaYönetimi.genruntimeconfig.cache
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\DosyaYönetimi\obj\Debug\net9.0\ref\DosyaYönetimi.dll
