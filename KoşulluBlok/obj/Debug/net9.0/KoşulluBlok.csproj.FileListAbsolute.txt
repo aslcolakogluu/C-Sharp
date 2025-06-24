@@ -1,0 +1,15 @@
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\KoşulluBlok\bin\Debug\net9.0\KoşulluBlok.exe
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\KoşulluBlok\bin\Debug\net9.0\KoşulluBlok.deps.json
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\KoşulluBlok\bin\Debug\net9.0\KoşulluBlok.runtimeconfig.json
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\KoşulluBlok\bin\Debug\net9.0\KoşulluBlok.dll
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\KoşulluBlok\bin\Debug\net9.0\KoşulluBlok.pdb
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\KoşulluBlok\obj\Debug\net9.0\KoşulluBlok.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\KoşulluBlok\obj\Debug\net9.0\KoşulluBlok.AssemblyInfoInputs.cache
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\KoşulluBlok\obj\Debug\net9.0\KoşulluBlok.AssemblyInfo.cs
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\KoşulluBlok\obj\Debug\net9.0\KoşulluBlok.csproj.CoreCompileInputs.cache
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\KoşulluBlok\obj\Debug\net9.0\KoşulluBlok.sourcelink.json
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\KoşulluBlok\obj\Debug\net9.0\KoşulluBlok.dll
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\KoşulluBlok\obj\Debug\net9.0\refint\KoşulluBlok.dll
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\KoşulluBlok\obj\Debug\net9.0\KoşulluBlok.pdb
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\KoşulluBlok\obj\Debug\net9.0\KoşulluBlok.genruntimeconfig.cache
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\KoşulluBlok\obj\Debug\net9.0\ref\KoşulluBlok.dll
