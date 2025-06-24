@@ -1,0 +1,15 @@
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\AritmetikOp\bin\Debug\net9.0\AritmetikOp.exe
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\AritmetikOp\bin\Debug\net9.0\AritmetikOp.deps.json
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\AritmetikOp\bin\Debug\net9.0\AritmetikOp.runtimeconfig.json
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\AritmetikOp\bin\Debug\net9.0\AritmetikOp.dll
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\AritmetikOp\bin\Debug\net9.0\AritmetikOp.pdb
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\AritmetikOp\obj\Debug\net9.0\AritmetikOp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\AritmetikOp\obj\Debug\net9.0\AritmetikOp.AssemblyInfoInputs.cache
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\AritmetikOp\obj\Debug\net9.0\AritmetikOp.AssemblyInfo.cs
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\AritmetikOp\obj\Debug\net9.0\AritmetikOp.csproj.CoreCompileInputs.cache
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\AritmetikOp\obj\Debug\net9.0\AritmetikOp.sourcelink.json
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\AritmetikOp\obj\Debug\net9.0\AritmetikOp.dll
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\AritmetikOp\obj\Debug\net9.0\refint\AritmetikOp.dll
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\AritmetikOp\obj\Debug\net9.0\AritmetikOp.pdb
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\AritmetikOp\obj\Debug\net9.0\AritmetikOp.genruntimeconfig.cache
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\AritmetikOp\obj\Debug\net9.0\ref\AritmetikOp.dll
