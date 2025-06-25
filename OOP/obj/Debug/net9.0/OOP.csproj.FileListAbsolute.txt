@@ -1,0 +1,15 @@
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\OOP\bin\Debug\net9.0\OOP.exe
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\OOP\bin\Debug\net9.0\OOP.deps.json
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\OOP\bin\Debug\net9.0\OOP.runtimeconfig.json
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\OOP\bin\Debug\net9.0\OOP.dll
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\OOP\bin\Debug\net9.0\OOP.pdb
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\OOP\obj\Debug\net9.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\OOP\obj\Debug\net9.0\OOP.AssemblyInfoInputs.cache
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\OOP\obj\Debug\net9.0\OOP.AssemblyInfo.cs
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\OOP\obj\Debug\net9.0\OOP.csproj.CoreCompileInputs.cache
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\OOP\obj\Debug\net9.0\OOP.sourcelink.json
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\OOP\obj\Debug\net9.0\OOP.dll
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\OOP\obj\Debug\net9.0\refint\OOP.dll
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\OOP\obj\Debug\net9.0\OOP.pdb
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\OOP\obj\Debug\net9.0\OOP.genruntimeconfig.cache
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\OOP\obj\Debug\net9.0\ref\OOP.dll
