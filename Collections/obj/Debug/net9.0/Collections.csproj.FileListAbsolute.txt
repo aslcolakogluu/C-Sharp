@@ -1,0 +1,15 @@
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\Collections\obj\Debug\net9.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\Collections\obj\Debug\net9.0\Collections.AssemblyInfoInputs.cache
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\Collections\obj\Debug\net9.0\Collections.AssemblyInfo.cs
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\Collections\obj\Debug\net9.0\Collections.csproj.CoreCompileInputs.cache
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\Collections\obj\Debug\net9.0\Collections.sourcelink.json
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\Collections\bin\Debug\net9.0\Collections.exe
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\Collections\bin\Debug\net9.0\Collections.deps.json
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\Collections\bin\Debug\net9.0\Collections.runtimeconfig.json
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\Collections\bin\Debug\net9.0\Collections.dll
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\Collections\bin\Debug\net9.0\Collections.pdb
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\Collections\obj\Debug\net9.0\Collections.dll
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\Collections\obj\Debug\net9.0\refint\Collections.dll
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\Collections\obj\Debug\net9.0\Collections.pdb
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\Collections\obj\Debug\net9.0\Collections.genruntimeconfig.cache
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\Collections\obj\Debug\net9.0\ref\Collections.dll
