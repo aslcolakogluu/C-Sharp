@@ -1,0 +1,15 @@
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\HataYönetimi\bin\Debug\net9.0\HataYönetimi.exe
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\HataYönetimi\bin\Debug\net9.0\HataYönetimi.deps.json
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\HataYönetimi\bin\Debug\net9.0\HataYönetimi.runtimeconfig.json
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\HataYönetimi\bin\Debug\net9.0\HataYönetimi.dll
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\HataYönetimi\bin\Debug\net9.0\HataYönetimi.pdb
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\HataYönetimi\obj\Debug\net9.0\HataYönetimi.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\HataYönetimi\obj\Debug\net9.0\HataYönetimi.AssemblyInfoInputs.cache
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\HataYönetimi\obj\Debug\net9.0\HataYönetimi.AssemblyInfo.cs
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\HataYönetimi\obj\Debug\net9.0\HataYönetimi.csproj.CoreCompileInputs.cache
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\HataYönetimi\obj\Debug\net9.0\HataYönetimi.sourcelink.json
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\HataYönetimi\obj\Debug\net9.0\HataYönetimi.dll
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\HataYönetimi\obj\Debug\net9.0\refint\HataYönetimi.dll
+c:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\HataYönetimi\obj\Debug\net9.0\HataYönetimi.pdb
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\HataYönetimi\obj\Debug\net9.0\HataYönetimi.genruntimeconfig.cache
+C:\Users\Aslı Çolakoğlu\OneDrive\Masaüstü\C-Sharp\HataYönetimi\obj\Debug\net9.0\ref\HataYönetimi.dll
